@@ -15,45 +15,13 @@
     <router-link class="mui-tab-item" to="/">
       <span class="mui-icon mui-icon-contact"></span>
       <span class="mui-tab-label">通讯录</span>
-    </router-link>
+    </router-link> 
     <router-link class="mui-tab-item" to="/">
       <span class="mui-icon mui-icon-gear"></span>
       <span class="mui-tab-label">设置</span>
     </router-link>
   </nav>
   <!-- 底部Tabbar区域 -->
-  <ul>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-    <li>123</li>
-  </ul>
  </div>
 </template>
 
