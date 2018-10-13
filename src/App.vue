@@ -16,7 +16,7 @@
       <span class="mui-icon mui-icon-contact"></span>
       <span class="mui-tab-label">通讯录</span>
     </router-link> 
-    <router-link class="mui-tab-item" to="/goods">
+    <router-link class="mui-tab-item" to="/setting">
       <span class="mui-icon mui-icon-gear"></span>
       <span class="mui-tab-label">设置</span>
     </router-link>
